@@ -1,0 +1,1 @@
+An Angular E-commerce site by Tegha Mike Carlos to enable users buy from respectives business stores and make orders on real time.!!
